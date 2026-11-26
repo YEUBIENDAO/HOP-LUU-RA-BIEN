@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:'/HOP-LUU-RA-BIEN/',
+    base:'/
     plugins: [
       react(),
       tailwindcss(),
